@@ -7,6 +7,8 @@ Learn the words of Scripture in the passages you want to read.
 
 [Download the latest release](https://github.com/grahamlgrove/greek-hebrew-flashcards/releases/latest)
 
+Visit the [Biblical Flashcards website](https://grove.id.au/software/cards/) for more information.
+
 ## Practise the verses that matter to you
 
 Choose a specific verse or passage and test yourself on its Hebrew or Greek words. Whether you are preparing for a Bible study, working through a passage in class, or returning to a favourite chapter, your flashcards can follow the text you are studying.
