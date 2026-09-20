@@ -4,6 +4,7 @@ Learn the words of Scripture in the passages you want to read.
 
 
 [Open the online flashcards](https://exploringtheology.com/cards/)
+
 [Download the latest release](https://github.com/grahamlgrove/greek-hebrew-flashcards/releases/latest)
 
 ## Practise the verses that matter to you
