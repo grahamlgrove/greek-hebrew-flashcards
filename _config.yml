@@ -1,0 +1,7 @@
+title: "Biblical Languages: Greek & Hebrew Flashcards of the Whole Bible"
+description: "Practise the words of specific Bible verses in the grammatical forms you actually encounter."
+plugins:
+  - jekyll-github-metadata
+repository: grahamlgrove/greek-hebrew-flashcards
+url: "https://grahamlgrove.github.io"
+baseurl: "/greek-hebrew-flashcards"

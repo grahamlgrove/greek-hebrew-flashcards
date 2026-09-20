@@ -1,10 +1,14 @@
+---
+layout: default
+---
+
 # Biblical Languages: Greek & Hebrew Flashcards of the Whole Bible
 
 Learn the words of Scripture in the passages you want to read.
+{: .lead }
 
-
-[Open the online flashcards](https://exploringtheology.com/cards/)
-[Download the latest release](https://github.com/grahamlgrove/greek-hebrew-flashcards/releases/latest)
+[Open the online flashcards](https://exploringtheology.com/cards/){: .button }
+[Download the latest release]({{ site.github.repository_url }}/releases/latest){: .button .secondary }
 
 ## Practise the verses that matter to you
 
@@ -31,4 +35,4 @@ Learning the biblical languages can deepen our engagement with God’s word. The
 
 Use the [online flashcards at Exploring Theology](https://exploringtheology.com/cards/), or visit the [Biblical Flashcards website](https://grove.id.au/software/cards/) for more information.
 
-The app is available to download on GitHub from the [latest release](https://github.com/grahamlgrove/greek-hebrew-flashcards/releases/latest). Open the release’s **Assets** section to find the available downloads.
+The app is available to download on GitHub from the [latest release]({{ site.github.repository_url }}/releases/latest). Open the release’s **Assets** section to find the available downloads.
